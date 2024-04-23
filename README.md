@@ -1,2 +1,2 @@
 # jins.github.io
-jins homepage good
+<h1>jins homepage good</h1>
